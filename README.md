@@ -1,6 +1,6 @@
 # Spring Boot Rest API with H2 DB,JPA and Lombok
 
-**A simple rest api using 
+### A simple rest api using 
   <br/>**Spring Boot 3.2.1**
   <br/>**Java 17**
   <br/>**H2 Database**
@@ -11,7 +11,7 @@
 
 **Start the application using any of the below mentioned command**
 
-> ** Note: ** command need to run inside the root folder of this project
+> **Note: command need to run inside the root folder of this project**
 
 - **using maven** <br/>``` mvn spring-boot:run```
 
